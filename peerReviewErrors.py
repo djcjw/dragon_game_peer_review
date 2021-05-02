@@ -1,10 +1,10 @@
 # This is a header for the application
 # You should read this header and insert your name and your date below as part of the peer review
 # This is a typical part of any program
-# Author: <author>
-# Creation Date: <date>
+# Author: <Chris Ward>
+# Creation Date: <05/01/2021>
 # Below is a simple program with 10 issues (some are syntax errors and some are logic errors.  You need to identify the issues and correct them.
-
+#testing push to Github peer review branch
 import random
 import time
 
